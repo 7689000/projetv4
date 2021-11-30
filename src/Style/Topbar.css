@@ -1,5 +1,5 @@
-.topbar{
-    width: 100%;
+.Topbar{
+    width: 101%;
     height: 50px;
     background-color: white;
     -webkit-box-shadow: 11px 13px 25px -10px rgba(0,0,0,0.19);
@@ -12,6 +12,13 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+.topRight{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: black;
+    
 }
 .logo{
     font-weight: bold;

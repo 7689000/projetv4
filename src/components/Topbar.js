@@ -13,10 +13,11 @@ const Topbar = () => {
                     <div className="topBarIcons">
             
                          <span className="FleeebzNb">O</span>
-
-                         <Icon/>
                    
                      </div>
+
+                     <Icon/>
+                     
                 </div>
             </div>
         </div>
