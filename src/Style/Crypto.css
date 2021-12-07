@@ -1,0 +1,11 @@
+.currency{
+    width : 30%;
+    height: 20%;
+    margin: 2%;
+    padding: 2%;
+    background-color: white;
+    -webkit-box-shadow: 11px 13px 25px -10px rgba(0,0,0,0.19);
+    -moz-box-shadow: 11px 13px 25px -10px rgba(0,0,0,0.19);
+    box-shadow: 11px 13px 25px -10px rgba(0,0,0,0.19);   
+    border-radius: 30px;
+}

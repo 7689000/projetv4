@@ -1,0 +1,14 @@
+.card{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.flag{
+    width:30%;
+}
+
+li{
+    list-style-type: none;
+    font-size: 30px;
+}
